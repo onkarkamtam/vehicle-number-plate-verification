@@ -6,7 +6,6 @@
 
 This project implements an AI-based system to automatically detect whether vehicle number plates comply with government regulations using image classification. The system helps identify non-compliant or customized number plates that do not follow the standardized font and style mandated by the government.
 
-![Example Number Plate](./images/image2.png)
 
 ---
 
@@ -16,7 +15,6 @@ This project implements an AI-based system to automatically detect whether vehic
 * Classifies number plates as compliant or non-compliant
 * Uses a trained AI model based on Google Teachable Machine
 
-![Screenshot of the Website UI](./images/image1.png)
 
 ---
 
