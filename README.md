@@ -6,8 +6,6 @@
 This project implements an AI-based system to automatically detect whether vehicle number plates comply with government regulations using image classification. The system helps identify non-compliant or customized number plates that do not follow the standardized font and style mandated by the government.
 
 
----
-
 ## Features
 
 * Upload vehicle number plate images for analysis
@@ -15,7 +13,6 @@ This project implements an AI-based system to automatically detect whether vehic
 * Uses a trained AI model based on Google Teachable Machine
 
 
----
 
 ## Dataset
 
@@ -23,7 +20,6 @@ This project implements an AI-based system to automatically detect whether vehic
 * Secondary data sourced from Kaggle
 * Dataset includes images of number plates under various conditions
 
----
 
 ## Tools & Technologies
 
@@ -31,7 +27,6 @@ This project implements an AI-based system to automatically detect whether vehic
 * TensorFlow\.js for running the model directly in the browser
 * HTML, CSS, JavaScript for frontend web development
 
----
 
 ## How It Works
 
@@ -39,7 +34,6 @@ This project implements an AI-based system to automatically detect whether vehic
 2. The image is processed in-browser by the AI model to check compliance.
 3. The website displays whether the number plate follows government rules or not.
 
----
 
 ## Installation & Usage
 
@@ -61,7 +55,6 @@ This project implements an AI-based system to automatically detect whether vehic
 3. **Upload a number plate image** using the interface and get real-time compliance results.
    The AI model will evaluate the uploaded image and label it as **Compliant** or **Non-Compliant**.
 
----
 
 ## Folder Structure
 
