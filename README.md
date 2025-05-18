@@ -1,4 +1,3 @@
----
 
 # Vehicle Number Plate Compliance Detection
 
@@ -75,4 +74,3 @@ This project implements an AI-based system to automatically detect whether vehic
    └── README.md              # Project documentation
    ```
 
----
