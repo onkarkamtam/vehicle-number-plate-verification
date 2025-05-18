@@ -69,4 +69,3 @@ number-plate-compliance/
 
 ---
 
-Let me know if you'd like additional modifications or if you need any supplementary files, such as `index.html` or `script.js`!
