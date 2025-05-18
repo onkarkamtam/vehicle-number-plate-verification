@@ -15,7 +15,6 @@ This project implements an AI-based system to automatically detect whether vehic
 * Upload vehicle number plate images for analysis
 * Classifies number plates as compliant or non-compliant
 * Uses a trained AI model based on Google Teachable Machine
-* Supports integration into mobile/web apps for easy accessibility
 
 ![Screenshot of the Website UI](./images/image2.png)
 
