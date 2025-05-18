@@ -66,13 +66,13 @@ This project implements an AI-based system to automatically detect whether vehic
 
 ## Folder Structure
 
-```
-number-plate-compliance/
-├── images/                # Sample images for demo
-├── index.html             # Main webpage
-├── style.css              # Styling for the webpage
-├── script.js              # JavaScript to load and run the model
-└── README.md              # Project documentation
-```
+   ```bash
+   number-plate-compliance/
+   ├── images/                # Sample images for demo
+   ├── index.html             # Main webpage
+   ├── style.css              # Styling for the webpage
+   ├── script.js              # JavaScript to load and run the model
+   └── README.md              # Project documentation
+   ```
 
 ---
