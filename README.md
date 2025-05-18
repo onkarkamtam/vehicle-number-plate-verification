@@ -74,3 +74,5 @@ number-plate-compliance/
 ├── script.js              # JavaScript to load and run the model
 └── README.md              # Project documentation
 ```
+
+---
