@@ -41,7 +41,7 @@ This project utilizes AI-powered image classification to determine whether vehic
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/your-username/number-plate-compliance.git
-   cd number-plate-compliance
+   cd vehicle-number-plate-verification
    ```
 
 2. **Launch the website:**
