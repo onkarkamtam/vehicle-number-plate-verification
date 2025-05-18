@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Vehicle Number Plate Verification System</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="overlay">
+    <div class="header">
+      <h1>Vehicle Number Plate Verification</h1>
+      <div class="project-title">Based on Google Teachable Machine</div>
+    </div>
+    <label class="custom-file-upload">
+      <input type="file" accept="image/*" id="uploadInput" />
+      Upload Vehicle Image
+    </label>
+    <div id="uploadStatus" class="status-msg">No image uploaded</div>
+    <img id="uploadedImage" alt="Uploaded Vehicle Preview" />
+    <button onclick="verifyUploadedImage()">Verify Uploaded Image</button>
+    <button onclick="startLiveCamera()">Start Live Camera</button>
+    <div id="webcam-container"></div>
+    <div id="label-container"></div>
+    <div id="result"></div>
+
+    <!-- TensorFlow.js and Teachable Machine scripts -->
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@latest/dist/tf.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@teachablemachine/image@latest/dist/teachablemachine-image.min.js"></script>
+    <script src="script.js"></script>
+  </div>
+</body>
+</html>
